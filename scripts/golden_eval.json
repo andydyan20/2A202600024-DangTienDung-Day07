@@ -1,0 +1,78 @@
+[
+    {
+        "question": "What does EXW stand for and what are the seller's basic obligations?",
+        "expected_keywords": [
+            "Ex Works",
+            "disposal",
+            "seller's premises"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "How should parties incorporate Incoterms 2020 rules into their contracts?",
+        "expected_keywords": [
+            "chosen Incoterms rule",
+            "named port",
+            "named place",
+            "2020"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "Where does risk transfer in the FOB rule?",
+        "expected_keywords": [
+            "on board",
+            "vessel",
+            "port of shipment"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "What is the new rule name for DAT in Incoterms 2020?",
+        "expected_keywords": [
+            "DPU",
+            "Delivered at Place Unloaded"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "Who is responsible for export and import clearance in DDP?",
+        "expected_keywords": [
+            "seller",
+            "import clearance",
+            "Deliver Duty Paid"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "Describe the change regarding on-board notations in the FCA rule.",
+        "expected_keywords": [
+            "bill of lading",
+            "on-board notation",
+            "FCA"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "What do the Incoterms rules NOT do?",
+        "expected_keywords": [
+            "substitute for a contract of sale",
+            "transfer of property",
+            "payment"
+        ],
+        "expected_source": "incoterm.md"
+    },
+    {
+        "question": "What are the rules for any mode or modes of transport?",
+        "expected_keywords": [
+            "EXW",
+            "FCA",
+            "CPT",
+            "CIP",
+            "DAP",
+            "DPU",
+            "DDP"
+        ],
+        "expected_source": "incoterm.md"
+    }
+]
