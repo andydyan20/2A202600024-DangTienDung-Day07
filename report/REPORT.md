@@ -78,11 +78,11 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 | Tài liệu | Strategy | Chunk Count | Avg Length | Preserves Context? |
 |-----------|----------|-------------|------------|-------------------|
 | incoterms_any_mode_rules.md | FixedSizeChunker (`fixed_size`) | 5 | 273.0 | Trung bình |
-| incoterms_any_mode_rules.md | SentenceChunker (`by_sentences`) 6 | 212.3 | Tốt |
-| incoterms_any_mode_rules.md | RecursiveChunker (`recursive`) 6 | 212.5 | Tốt |
+| incoterms_any_mode_rules.md | SentenceChunker (`by_sentences`) | 6 | 212.3 | Tốt |
+| incoterms_any_mode_rules.md | RecursiveChunker (`recursive`) | 6 | 212.5 | Tốt |
 | incoterms_obligations_ab.md | FixedSizeChunker (`fixed_size`) | 4 | 233.5 | Trung bình |
-| incoterms_obligations_ab.md | SentenceChunker (`by_sentences`) 2 | 435.5 | Tốt |
-| incoterms_obligations_ab.md | RecursiveChunker (`recursive`) 4 | 217.0 | Tốt |
+| incoterms_obligations_ab.md | SentenceChunker (`by_sentences`) | 2 | 435.5 | Tốt |
+| incoterms_obligations_ab.md | RecursiveChunker (`recursive`) | 4 | 217.0 | Tốt |
 
 ### Strategy Của Tôi
 
